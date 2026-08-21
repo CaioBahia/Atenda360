@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+*.iml
+*.log
+*.zip
+.site-starter/
+atenda360-web/node_modules/
+atenda360-web/dist/
+atenda360-web/.angular/
+atenda360-api/target/
+.env
+.run/
